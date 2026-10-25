@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riskbedomning.dokufolio.com/sitemap.xml
